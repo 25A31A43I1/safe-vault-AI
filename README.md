@@ -1,5 +1,5 @@
-
 🔐 SafeVault AI
+
 SafeVault AI is a web-based digital security application designed to protect users' sensitive data through secure authentication, intelligent risk detection, and emergency access control.
 
 🚀 Key Features
